@@ -118,7 +118,6 @@ Computations / descriptive stats
    Series.abs
    Series.all
    Series.any
-   Series.autocorr
    Series.ceil
    Series.clip
    Series.corr
